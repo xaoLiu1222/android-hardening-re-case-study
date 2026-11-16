@@ -38,6 +38,8 @@ docs/
   05-timeline.md               研究时间线摘要
 scripts/
   triage_one.py                IDA 分诊脚本（字符串指标 + 敏感导入 xref）
+SECURITY.md                    安全政策（误披露 / 勘误 / 权利异议渠道）
+CONTRIBUTING.md                贡献指南（可贡献项、标注制度、禁止项）
 ```
 
 ## 方法论要点

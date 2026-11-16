@@ -1,0 +1,30 @@
+﻿# 样本与可操作材料：一律不入库
+*.apk
+*.aab
+*.dmm
+*.so
+*.dex
+*.jar
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.asm
+*.bin
+*.zip
+*.hprof
+*.log
+
+# 内部工作区与项目记忆
+_work/
+AGENTS.md
+检测分析.md
+实验记录.md
+
+# 平台
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
